@@ -1,3 +1,3 @@
-module github.com/pulumi/pulumi-xyz/sdk
+module github.com/tcrst/pulumi-ovirt/sdk
 
 go 1.14

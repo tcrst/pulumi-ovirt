@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-xyz/scripts/
+module github.com/tcrst/pulumi-ovirt/scripts/
 
 go 1.14
 
