@@ -16,7 +16,6 @@ package main
 
 import (
 	"github.com/pulumi/pulumi-terraform-bridge/v2/pkg/tfgen"
-
 	ovirt "github.com/tcrst/pulumi-ovirt/provider"
 	"github.com/tcrst/pulumi-ovirt/provider/pkg/version"
 )
