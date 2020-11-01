@@ -1,0 +1,25 @@
+{
+    "name": "@pulumi/ovirt",
+    "version": "${VERSION}",
+    "description": "A Pulumi package for creating and managing ovirt cloud resources.",
+    "keywords": [
+        "pulumi",
+        "ovirt"
+    ],
+    "homepage": "https://pulumi.io",
+    "repository": "github.com/tcrst/pulumi-ovirt",
+    "license": "Apache-2.0",
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "^2.0.0"
+    },
+    "devDependencies": {
+        "@types/mime": "^2.0.0",
+        "@types/node": "^8.0.25"
+    },
+    "pulumi": {
+        "resource": true
+    }
+}

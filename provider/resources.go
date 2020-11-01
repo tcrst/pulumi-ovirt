@@ -17,7 +17,7 @@ package ovirt
 import (
 	"unicode"
 
-	"github.com/hashicorp/terraform/terraform/schema"
+	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
 	"github.com/ovirt/terraform-provider-ovirt/ovirt"
 	"github.com/pulumi/pulumi-terraform-bridge/v2/pkg/tfbridge"
 	shim "github.com/pulumi/pulumi-terraform-bridge/v2/pkg/tfshim"

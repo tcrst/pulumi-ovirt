@@ -675,6 +675,8 @@ github.com/opentracing/basictracer-go v1.0.0/go.mod h1:QfBfYuafItcjQuMwinw9GhYKw
 github.com/opentracing/opentracing-go v1.1.0 h1:pWlfV3Bxv7k65HYwkikxat0+s3pV4bsqf19k25Ur8rU=
 github.com/opentracing/opentracing-go v1.1.0/go.mod h1:UkNAQd3GIcIGf0SeVgPpRdFStlNbqXla1AfSYxPUl2o=
 github.com/openzipkin/zipkin-go v0.1.1/go.mod h1:NtoC/o8u3JlF1lSlyPNswIbeQH9bJTmOf0Erfk+hxe8=
+github.com/ovirt/go-ovirt v0.0.0-20200313072907-d30f754823a6 h1:LFsvZMgJpJgpZOr8uOb2i+61SsT57W2MY1ggmIB9jV0=
+github.com/ovirt/go-ovirt v0.0.0-20200313072907-d30f754823a6/go.mod h1:fLDxPk1Sf64DBYtwIYxrnx3gPZ1q0xPdWdI1y9vxUaw=
 github.com/ovirt/go-ovirt v4.3.4+incompatible h1:jXcJpcXyNZ3mXJ1IVU3l3tMpE4JEUSNjqRiEJnVpG40=
 github.com/ovirt/go-ovirt v4.3.4+incompatible/go.mod h1:r33ZGjVKCPMiI6hw791/Zx8tNKk0Gn+4VFWbOfyIvZQ=
 github.com/ovirt/terraform-provider-ovirt v0.4.0 h1:r5Za+Yp+//5Jtrr8lbosq1/SvF3Ybb7xUrDj6zHFaqw=
@@ -683,6 +685,8 @@ github.com/ovirt/terraform-provider-ovirt v0.4.1 h1:3xk4Lwp6gJiT4Ea+cA2A7Qt1UzKk
 github.com/ovirt/terraform-provider-ovirt v0.4.1/go.mod h1:CZA0+vOPYUyflUT1yDcNoWhxnnus/r6pWfU8nBnQ40Y=
 github.com/ovirt/terraform-provider-ovirt v0.4.2 h1:qH0LQMR8DSlRL3llKE/wvA840M6cHdq2HpDby7ZlFbU=
 github.com/ovirt/terraform-provider-ovirt v0.4.2/go.mod h1:CZA0+vOPYUyflUT1yDcNoWhxnnus/r6pWfU8nBnQ40Y=
+github.com/ovirt/terraform-provider-ovirt v0.4.3-0.20201027104244-2ed0eb818f53 h1:IGD3L+AV5neJxBtFy+x61NAsE2Pmu/m9VGpcsmGtxrM=
+github.com/ovirt/terraform-provider-ovirt v0.4.3-0.20201027104244-2ed0eb818f53/go.mod h1:XFDLN/srNA1s2Dq+gp4zBvql6nRnfNJzDGzI5vtK85g=
 github.com/packer-community/winrmcp v0.0.0-20180102160824-81144009af58/go.mod h1:f6Izs6JvFTdnRbziASagjZ2vmf55NSIkC/weStxCHqk=
 github.com/packer-community/winrmcp v0.0.0-20180921211025-c76d91c1e7db/go.mod h1:f6Izs6JvFTdnRbziASagjZ2vmf55NSIkC/weStxCHqk=
 github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
